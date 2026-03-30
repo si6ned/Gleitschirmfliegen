@@ -40,8 +40,22 @@
 	- kurveninnere Hand nachziehen um die Kurve weiter zu verengen
 - zum Ausleiten erst die Bremsleinen lösen, dann langsam Gewicht wieder zu Mitte -> sonst Pendeln
 
+## Rollen
+![Rollen.svg](Anlage/Rollen.svg)
+- Der Schirm macht eine Rollbewegung, am höchsten Punkt eine Nickbewegung und dann eine Tauchbewegung in der man wieder unter den Schirm pendelt. Danach von vorne.
+- Steuerinputs: Gewicht - Innenbremse - Außenbremse - Freigeben
+- beim Drunterpendeln: Gewicht auf Innenseite verlagern
+- kurz VOR tiefstem Punkt Innenbremse (danach würde dem Schirm die Energie nehmen -> Verhungern am höchsten Punkt)
+- Blick dorthin, wo der Schirm gleich abtauchen wird
+- ab dem höchsten Punkt freigeben zum Beschleunigen
+- Ausleiten: mit dem Gewicht auf der Innenseite bleiben und über eine Kurve ausleiten. Im tiefsten Punkt kann man über Ziehen der Innenbremse den Gegenpendler verhindern (der Schirm will pendeltechnisch eigentlich gerade auf dieser Seite steigen, diese Energie wird dadurch abgebremst)
+- geht auch nur mit Gewicht
+
+## Wingover
+- beim Aufsteigen innen nachziehen und mit Außenbremse stabilisieren (nur ab hohem Rollen notwendig, je aktiver man nachzieht umso eher klappt der Schirm außen)
+- falls Schirm außen klappt auf offener Seite bleiben und ausleiten
+
 ## Vorhalten
 - Vorhaltewinkel muss passend zum Wind gefunden werden
 - er verhindert unnötiges Sinken
 - Peilen über markante Geländepunkte (Kimme und Korn)
-

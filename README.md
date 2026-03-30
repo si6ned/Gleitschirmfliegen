@@ -1,5 +1,5 @@
 ## About
-meine Notizen aus A-Kurs, Sicherheitstraining und allgemeinen Links. Bilder und Infos aus dem Theorieuntericht von [Hari Huber](https://www.gleitschirmschule-pappus.de/), das Workbook des Sicherheitstraining kommt von der [Flugschule Achensee](https://www.flugschule-achensee.at/de/workbook).
+meine Notizen aus A-Kurs, Sicherheitstraining und allgemeinen Links. Bilder und Infos aus dem Theorieuntericht von [Hari Huber](https://www.gleitschirmschule-pappus.de/). Zusätzlich ist das Workbook des Sicherheitstraining von der [Flugschule Achensee](https://www.flugschule-achensee.at/de/workbook) hilfreich.
 
 ## Inhaltsverzeichnis
 - [Abstiegshilfen](Abstiegshilfen.md)
@@ -12,6 +12,6 @@ meine Notizen aus A-Kurs, Sicherheitstraining und allgemeinen Links. Bilder und 
 - [Landung](Landung.md)
 - [Links](Links.md)
 - [Luftrecht](Luftrecht.md)
+- [Manoever](Freizeit/Gleitschirmfliegen/Manoever.md)
 - [Meterologie](Meterologie.md)
-- [Sicherheitstraining Workbook](Sicherheitstraining_Workbook.pdf)
 - [Start](Start.md)

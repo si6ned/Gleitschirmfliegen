@@ -1,13 +1,10 @@
 ---
 type: Dokumentation
-tag: Aktivitaet, Outdoor
-description: 
+tags:
+description:
 created: 2023-05-01
 ---
 ## Organisatorisches
-- David Drive: https://bwsyncandshare.kit.edu/s/LcDMXWKBEnA5jdP?path=%2FNotizen
-- Kerstin Drive: https://1drv.ms/f/s!Ap3BWrYnGymH3G--hR9vHai-3AIg?e=PQtPJE, PW: Pappus_A1_2023!
-- Technik und Flugpraxis in der ersten Woche lernen, Flugtrecht und Meterologie in der zweiten
 - Theorieprüfung: 90 min, 6 pro Fach falsch, 120 Fragen, Single Choice
 	- Lernkarten: https://dhv.onlearning.at/
 	- Prüfung: https://service.dhv.de/
@@ -15,7 +12,7 @@ created: 2023-05-01
 	- Startcheck
 	- Start mit Kontrollblick
 	- Klapper ohne große Kurve
-	- 8 in unter 30 s ohne große Pendler
+	- 8 fliegen in unter 30 s ohne große Pendler
 	- keine Position quer ab
 	- klare Entscheidung zur Landevolte, rechtwinklige Elemente, lieber verlängern als Schleifen als zu lang
 	- sturzfreie Landung im 60 m Quadrat
@@ -41,6 +38,11 @@ created: 2023-05-01
 
 ^ca286c
 >**Streckung** = Spannweite^2 / Fläche
+
+>**Fly your aircraft**: solange fliegbar fliegen und nicht hektisch versuchen z.B. einen Klapper zu lösen und dabei den Fokus auf den Geradeausflug zu verlieren
+^118e8d
+
+> Du hast 3 s. Um dein Problem zu lösen. Dann: Retter raus!
 
 ## Beinzeichen falls Funk ausfällt
 - eigenständiger Flug zur Positionsbox

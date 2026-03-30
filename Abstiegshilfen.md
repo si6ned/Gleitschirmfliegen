@@ -10,14 +10,14 @@
 	- Schirm ist durch Körpersteuerung noch steuerbar
 	- 3,5 - 4 m/s Sinkgeschwindigkeit, Erhöhung des Sinkwinkel von 15° auf 30°
 - Ausleiten
-	- Beschleuniger erst langsam wieder auf halbe Stellung reduzieren (maximal!)
+	- evtl. Beschleuniger langsam etwas zurücknehmen (maximal halbe Stellung!)
 	- A2-Leine nach oben führen
 	- wenn ausgependelt, Beschleuniger ganz zurücknehmen
 	- falls ein Ohr hängen bleibt, durch Pumpstoß lösen
 ## Big Ears
 - Einleiten
 	- voll beschleunigen, Bremse am Steg
-	- 2 Leinen hoch greifen und **nur umknicken!** Runterziehen würde auch die innere A-Leine mit runterziehen u.d außerdem sehr dynamisch nach hinten wegkippen.
+	- 2 Leinen hoch greifen und **nur umknicken!** Runterziehen würde auch die innere A-Leine mit runterziehen und außerdem sehr dynamisch nach hinten wegkippen.
 	- wenn sich der Schirm beruhigt hat kann man noch nachziehen, soweit der A1-Gurt nicht mit heruntergezogen wird.
 - Eigenschaften
 	- Schirm ist sehr rollsensibel, vorsichtig Gewicht verlagern für Kurven.
@@ -47,8 +47,8 @@
 ## Steilspirale
 - Vorgehen
 	- Trimmgeschwindigkeit um Fahrt aufzunehmen
-	- steile Kurve einleiten
-	- Kurveninnenseite nachziehen
+	- steile Kurve einleiten, Blick & Gewicht nach innen halten
+	- Kurveninnenseite nachziehen -> Schirm giert und kippt in Folge nach Innen
 	- Außenseite kontrolliert das Abnicken und die Geschwindigkeit des Schirms -> Spiralradius
 	- mit der Innenseite kann der Schirm wieder mehr auf die Nase gelegt werden
 - Eigenschaften
@@ -58,5 +58,5 @@
 - Ausleiten
 	- in der Abtauchphase kann man durch Bremsen lösen das Eintauchen in die Spirale verhindern
 	- Gewicht unbedingt wieder aus der Kurve herausnehmen
-	- Slow Exit: nicht zu schnell ausleiten, da sich sonst der Schirm aufrichtet und der Schirm vorschießt. An Außenbremse Zug erhöhen, Innenbremse bleibt gezogen, eventuell nachziehen wenn der Schirm zu schnell raus will. Geschwindigkeit langsam abbauen
-	- Fast Exit (French Pitch): beide Bremsen lösen, Schirm rotiert 1-2 Umdrehungen aus und schießt mit viel Pitch aus der Spirale heraus. Mit Gewichtsverlagerung den Pitch symetrisch halten. Dabei unbedingt die Hände hoch lassen, mit Gewicht symmetrisch halten! Wenn der Schirm beim zurückpendeln dann vorschießt scharf bremsen, bis der Schirm "anhält", dann langsam wieder öffnen
+		- **Fast Exit (French Pitch)**: Außenbremse dazu, Schirm kommt schnell aus Spirale (etwa 1 Umdrehung). Schirm schießt mit viel Pitch aus der Spirale heraus, beide Bremsen lösen. Mit Gewichtsverlagerung den Pitch symetrisch halten. Dabei unbedingt die Hände hoch lassen. Wenn der Schirm beim zurückpendeln dann vorschießt scharf bremsen (2 Uhr), bis der Schirm "anhält", dann langsam wieder öffnen
+	- **Slow Exit**: An Außenbremse Zug erhöhen und wieder lösen -> Schirm richtet sich auf (Gieren). Innenbremse bleibt gezogen, eventuell nachziehen wenn der Schirm zu schnell raus will. Geschwindigkeit langsam über Kreis abbauen.

@@ -16,7 +16,7 @@
 
 ### vollständigen Strömungsabriss (**Full Stall**)
 - Auslöser:
-	- extrem starkes Bremsen
+	- extrem starkes (gehaltenes) Bremsen
 	- tritt eigentlich nur durch bewusstes Hervorrufen auf
 - Eigenschaften:
 	- Schirm fällt zurück
@@ -26,31 +26,38 @@
 - Maßnahmen:
 	- Reduzieren des Bremsleinenzugs (jedoch erst, wenn der Pilot unter die Kappe gependelt ist)
 	- führt beim "Anfahren" zum (asymetrisches) Vorschießen des Schirms -> Schirm schießt **sehr heftig** in 2-3 s bis unter den Piloten ab
-	- muss durch **sofortigen, starken Bremsleinenzug** aufgelöst werden
+	- Schießen muss durch **sofortigen, starken Bremsleinenzug** bei 1-2 Uhr abgefangen werden, danach aber schnell wieder freigeben
+	- Falls verwickelt oder Leinenverhänger durch Backfly auflösen
 
-### dynamischer Full Stall
-- durch schnelles Durchdrücken der Bremsen und Halten
-- Full Stall + Pendeln
-- sehr schnelles Zusammenfallen des Schirms
+### Leinenverhänger
+- erstmal gerade ausfliegen
+- je mehr Widerstand, umso mehr tendiert der Schirm zum Wegkippen und [Trudeln](Gefahrensituationen#Trudeln)
+- vorsichting steuern, da der Anstellwinkel aufgrund von viel Widerstand hoch ist -> Stallgefahr
+- erst bei stabilen Vorwärtsflug durch Pumpstoß 100% + warten lösen
+- Wenn das nicht hilft an der betreffenden Leine (idr. Stabilo) ziehen
+- letzte Möglichkeit stark auf der Seite bremsen und ganz kurz halten, um diese Seite nach hinten zu beschleunigen (Spin), sodass der Verhänger von hinten angeströmt wird (in extremer Ausführung kurzer, einseitiger Stall)
+- falls nicht zu lösen und Schirm Rotation einleitet -> Retter auslösen
 
-### **Trudeln**
+### Trudeln/Autorotation
 - Auslöser
-	- einseitiger Strömungsabriss
+	- einseitiger Strömungsabriss und/oder Leinenverhänger
 	- z.B. einseitiger, starker Bremszug
 	- z.B. enger Kurvenflug gepaart mit Turbulenz (z.B. beim Aufspiralen)
 	- z.B. bei dynamischen, aufeinanderfolgenden Kurven -> Pendeln -> Stall
 - Eigenschaften
-	- Schirm rotiert schneller als der Pilot
-	- unkontrollierte Rotation des Schirms durch einseitigen Strömungsabriss
+	- Schirm fällt in Rotation und bleibt ohne Steuerinput drin
+	- Drehzentrum zwischen Schirm und Pilot -> Pilot dreht sich rückwärts
 	- bei sehr schnellem Rotieren kann es auch zum **Twist** kommen
 - Maßnahmen
 	- zur Vermeidung immer auf Fahrtgeräusche achten und bei Turbulenz vorsichtig sein, mehr Körpersteuerung als Bremszug
-	- in der Anfangsphase (Negativ-Drehen, erste 1,5 s) **beide Bremsen schnell lösen** -> Schirm beschleunigt wieder
+	- in der Anfangsphase (ohne Verhänger) (Negativ-Drehen, erste 1,5 s): **beide Bremsen schnell lösen** -> Schirm beschleunigt wieder
+	- in der Anfangsphase (mit Leinenverhänger): über Außenbremse Schirm im Geradeausflug halten
+	- in der Spiral durch kontrollierten Zug auf der Außenbremse Drehung stoppen
 	- falls erst später ausgeleitet wird kann beim Ausleiten wie beim Stall der Schirm (einseitig) vorschießen
 
 ## Einklapper
 
-### Seitlich Diagonal an der Vorderkante oder Seitlich Eingeklappt
+### Seitliche Klapper
 - Auslöser
 	- Diagonaler Klapper entsteht häufiger, z.B. durch Turbulenz
 	- Eingeklappte Seite entsteht hauptsächlich durch einseitiges Vorschießen, z.B. beim Stall, eher bei Hochleistungsschirmen
@@ -60,16 +67,18 @@
 	- Schirm öffnet selbst wieder
 	- erkennbar durch akkustischer Schlag
 	- Schirm fliegt 0.5 s noch gerade aus, nach 0.5 s eine Kurve, nach weiteren 0.5 s beginnt er abzutauchen
+	- falls nicht abgefangen wird, kann der Schirm in [Autrotation](Gefahrensituationen#Trudeln/Autorotation) fallen. Kann simuliert werden durch [Hermann-Manöver](Freizeit/Gleitschirmfliegen/Manoever.md#Autorotation/Hermann)
 - Maßnahmen
 	- Schirm sollte selbst wieder ausklappen
-	- Fokus in Fahrtrichtung
+	- Fokus erstmal darauf Fahrtrichtung beizubehalten: [Fly your aircraft](Allgemeines#^118e8d)
 	- Körper passiv lassen
 	- im ersten Impuls erstmal wegdrehen lassen, um Fahrt aufzubauen (wenn Platz!)
-	- mit der Außenbremse die Drehung und Wegnicken abbremsen -> könnte zum Trudeln führen
+	- mit der Außenbremse die Drehung und Wegnicken abbremsen -> könnte zu Autorotation führen
 	- jedoch nicht zu stark ziehen! Durch das Verlangsamen des Schirms vergrößert sich der Anstellwinkel -> Stallgefahr
-	- falls sich der Klapper nicht selbst löst -> Pumpstoß
+	- kann auch mit der C-Ebene abgefangen werden (kommt im im beschleunigten Flug vor)
+	- falls sich der Klapper nicht selbst löst -> Pumpstoß und/oder aus Beschleuniger gehen
 
-### Einklapper Frontkante
+### Frontklapper
 - Auslöser
 	- entsteht praktisch nur bei getretenem Beschleuniger
 	- Turbulenz verlangsamt den Schirm -> Pendel -> negativer Anstellwinkel -> Einklapper
@@ -78,23 +87,10 @@
 	- Schirm kann nach vorne abtauchen
 - Maßnahmen
 	- Beschleuniger sofort zurücknehmen
-	- Bremsen komplett lösen, durch das plötzliche Abbremsen des Schirms besteht Stallgefahr!
+	- Bremsen komplett lösen, durch das plötzliche Abbremsen kippt der Schirm nach hinten und geht in den Sackflug nach unten. Bremsen beim Anfahren verursacht Stallgefahr!
 	- Schirm nimmt wieder Fahrt auf und kommt wieder vor -> extremes Überschießen durch Anbremsen verhindern, jedoch muss der Schirm Fahrt aufnehmen
 	- falls Frontrosette: kurz & stark anbremsen und direkt wieder komplett freigeben. Schirm schießt -> abfangen
 	- falls der Schirm nicht öffnet und der **Anstellwinkel nicht zu groß ist** -> beidseitig anbremsen
-
-### Komplett zusammengefallen
-- eigentlich nur durch Full Stall zu beheben
-- tritt normalerweise nicht auf
-
-## Leinen Verwickelungen
-- erstmal gerade ausfliegen
-- je mehr Widerstand, umso mehr tendiert der Schirm zum Wegkippen und Trudeln
-- vorsichting steuern, da der Anstellwinkel aufgrund von viel Widerstand hoch ist
-- erst bei stabilen Vorwärtsflug durch Pumpstoß 100% + warten lösen
-- Wenn das nicht hilft an der betreffenden Leine (idr. Stabilo) ziehen
-- letzte Möglichkeit stark auf der Seite bremsen und ganz kurz halten, um diese Seite nach hinten zu beschleunigen (Spin), sodass der Verhänger von hinten angeströmt wird (in extremer Ausführung kurzer, einseitiger Stall)
-- falls nicht zu lösen und Schirm Rotation einleitet -> Retter auslösen
 
 ## Notlandung
 ### "Hohe Landung"
@@ -114,6 +110,6 @@
 - wenn unvermeidbar frontal anpeilen, halbseitige Berührung führt zu mehr Problemen
 
 ### Wasserlandung
-- immer Cuttermesser und Schwimmweste bei Flügen in Wassernähe dabei haben
+- immer Cuttermesser und Schwimmweste bei Fliegen in Wassernähe dabei haben
 - Landung im Wasser nach Möglichkeit immer vermeiden, insbesondere fließendes Gewässer
-- schnell von Schirm und Gurt trennen
+- schnell von Schirm und Gurt trennen, sonst kann man sich leicht in den LEinen verheddern oder vom Tuch unter Wasser gehalten werden

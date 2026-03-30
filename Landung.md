@@ -2,8 +2,8 @@
 - vieles gleich wie bei CS-23 (Richtung Platzrunde, etc.)
 - relevante Vorschriften SERA, FBO
 - immer gegen den Wind (FBO Vorschrift)
-- in Landeanteil hat man Kurshaltepflicht (SERA3210)
-- standardmäßig wird bei Landavolte ein Linkskurve geflogen (Linkslandevolte, SERA.3225)
+- im Endanflug hat man Kurshaltepflicht (SERA3210)
+- standardmäßig wird bei Landavolte eine Linkskurve geflogen (Linkslandevolte, SERA.3225)
 - bei besonderen Gegebenheiten, kann für einen speziellen Landeplatz eine Rechtslandevolte vorgeschrieben sein (siehe **Landeplatztafel**). Normalerweise natürlich nur eine der beiden Seiten, da eine Seite unsicherer ist
 
 ## Landephasen
@@ -20,7 +20,7 @@
 ### 3. Queranflug
 - 90° zwischen den beiden anderen Abschnitten
 - 80-120 m
-- eventuell Queranflug verkürzen oder verlängern, je nach Höhe. Lieber zu hoch als zu niedrig anfliegen  und über dem Landeplatz noch etwas Höhe abbauen
+- eventuell Queranflug verkürzen oder verlängern, je nach Höhe. Lieber zu hoch als zu niedrig anfliegen und über dem Landeplatz noch etwas Höhe abbauen
 - im Notfall, wenn kein Höhenverlust, kann durch flache 8 hier noch Höhe abgebaut werden (Queranfluglinie halten). Dabei die 8er immer außen anfliegen und die Kehren zum Landeplatz hin anfliegen (Blick zum Landeplatz halten)
 ### 4. Endanflug gegen den Wind auf Peilpunkt zu
 - keine Kurven etc. mehr fliegen, Kurshaltepflicht!
@@ -28,6 +28,7 @@
 - 10m überm Boden Hände nochmal [leicht anheben](Allgemeines#^d7f7be) um leicht zu beschleunigen
 - 1.5m über Boden [abfangen](Allgemeines#^42bcd8), ausgleiten lassen
 - Wenn Geschwindigkeit abgebaut ist durchbremsen (Pumpstoß) -> kontrollierter Strömungsabriss
+- falls man im Endanflug zu viel Höhe hat kann man zusätzlich zum Bremsen noch in den Beschleuniger treten (Trimmflaps) oder wiederholt Nicken (Flapping). Siehe [YouTube Toplandung](https://youtu.be/qLbNON26bck?si=RPezBkEwTVqG-9QF))
 ### 5. Schirm ablegen
 - 180° Drehung wenn Schirm oben
 - Bremsen durchziehen, eventuell in C-Leinen greifen

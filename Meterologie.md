@@ -152,18 +152,36 @@ wichtige Phänomene sind:
 - Höhe wird durch Vorsilben angegeben:
 	- ohne -> bis 2.5 km
 	- Alto -> bis 6 km
-	- Cirrus -> bis 12 km
+	- Cirrus -> 8 bis 12 km
 	- Nimbus -> Regenwolke
 - 2 Wolkentypen
 	- Cummulus (Haufen)
 		- normalerweise in 900 m, in den Alpen bis 4500 m Höhe
 		- lokale Entstehung
-	- Schicht
+	- Stratus (Schicht)
 		- Anzeichen von Frontengrenzen
 		- begrenzen Effekt der Thermik
+- Schönwetterwolken
+	- Cirrus (Eis)
+- Schlechtwetterwolken
+	- Wolkenfahne an Gipfeln (Leeseite, lokal geringer Druck) -> wenn sie größer werden ist schlecht
+	- Cummulus Congestus
+		- scharf abgegrenzt, graue Unterseite, relativ hoher Wassergehalt
+	- Quellwolken, wenn Cummulus sich zum Amboss auftürmen, Allem kann sich nicht weiter ausbreiten und wächst zur Seite
+- Lenticularis
+	- Föhnwolken ortsfest über hohen Bergen (Regionales Wetter). Durch hohe Windgeschwindigkeiten wird Wolke lang gezogen
 - Faustformel: wenn Wolken höher als breit sind, besteht die Gefahr der Gewitterbildung
 - wenn Wolken unten klar Kanten haben, weiter oben ambossförmig aber flauschig sind, gibt es oben Vereisungsprozesse -> Hagel -> Abkühlung auch weiter unten -> Gewitter
 - Gewitter kündigt sich durch kalten Wind an, dies ist die ausfließende kalte Luft, oben drüber wird die warme Luft in die Wolken gesaugt
+
+![Wolkenarten](Anlage/Wolkenarten.jpg)
+## Gewitter
+- labile Schichtung, ungehinderte Vertikalentwicklung
+- hohe Windgeschwindigkeiten, Luft wird angesaugt durch aufsteigende Luftmassen
+- hohe Wolken, Teilchen steigen weit auf, kühlen dabei ab und fallen dadurch wieder runter -> viel Reibung, elektrostatische Aufladung -> Gewitter
+- Blitze können sich 2 km horizontal ausbreiten, also z.b. auch in den Nachbargipfel einschlagen
+- Wärmegewitter (Tageszeit immer ähnlich, 1-2 h) oder Frontengewitter (Wetterbericht, Wetterumschwung)
+- Absteigen oder Unterschlupf (trocken, bestenfalls isolierter Untergrund), Vermeidung von exponierten Stellen, Metall beiseite ablegen
 
 ## Wetterwechsel
 - Zyklone entstehen vor allem im 30° und 60° Breitengrad (Azorenhoch, Islandtief)
@@ -171,15 +189,19 @@ wichtige Phänomene sind:
 - Aufeinandertreffen von kalten und warmen Strömungen
 - erzeugt Kalt- und Warmfronten
 - Kaltfront Linie blau mit ^,  Warmfront rot mit Halbkreis, Ausbreitung in Richtung der Symbole. Okklusion pink mit beiden Symbolen
+- kontinentales Polarluft aus Nordost meist kalt und trocken
+- Luft vom Atlantik feucht durch hohe Verdunstung vom Meer, je südlicher, desto wärmer
 
 ### Warmfront
 ![Warmluftfront.jpg](Anlage/Warmluftfront.jpg)
 - kalte Luft hat höhere Dichte, warme Luft steigt daran auf (**Aufgleitinversion**)
+- warme Luft kühlt beim aufsteigen ab und kann immer weniger Wasser behalten -> relative Feuchte steigt
 - Schichtwolken entstehen und sind damit Anzeichen für eine Warmfront, diese ist aber noch 600-800 km entfernt
 - weiteres Anzeichen ist der sinkende Luftdruck
 
 ### Kaltfront
 ![Kaltluftfront.jpg](Anlage/Kaltluftfront.jpg)
+- kalte Luft schiebt sich unter die Warme
 - schlecht anhand der Wolkenbilder vorherzusehen
 - heftige Gewitter möglich
 - schlagartiges Ansteigen des Luftdrucks, aber erst bei Eintreffen des Gewitters
@@ -203,7 +225,7 @@ typischer Schlechtwetterdurchgang in unseren Breiten:
 - Barisches Windgesetz: stehst du mit dem Rücken zum Wind, gibt es vorne links ein Tiefdruckgebiet und hinten rechts ein Hochdruckgebiet (Schnittpunkt zweier Zyklone)
 
 ## Wetterberichte
-- Zuerst schauen beim [DHV](https://www.dhv.de/2/piloteninfos/wetter/)
+- Zuerst schauen beim [DHV](https://www.dhv.de/2/piloteninfos/wetter/), [DAV-Bergwetter](https://www.alpenverein.de/bergwetter)
 - Frontenkarte: [Meteoschweiz](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/allgemeine-lage.html#tab=general-situation-map), [ZAMG](https://www.zamg.ac.at/cms/de/wetter/wetterkarte), [Wetterzentrale](https://www.wetterzentrale.de/de/fax.php?model=dwd)
 - Isobarenkarte: [Wetteronline](https://www.wetteronline.de/profiwetter/europa)
 - Temperaturzustandskurve (TEMP): [Meteo Parapente](https://meteo-parapente.com/#/), [Wetteronline](https://www.wetteronline.de/?gid=euro&pcid=pc_modell_expert&pid=p_modell_expert&sid=Radiosondes)
