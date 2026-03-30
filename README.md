@@ -12,6 +12,6 @@ meine Notizen aus A-Kurs, Sicherheitstraining und allgemeinen Links. Bilder und 
 - [Landung](Landung.md)
 - [Links](Links.md)
 - [Luftrecht](Luftrecht.md)
-- [Manoever](Freizeit/Gleitschirmfliegen/Manoever.md)
+- [Manoever](Manoever.md)
 - [Meterologie](Meterologie.md)
 - [Start](Start.md)
