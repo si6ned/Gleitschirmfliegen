@@ -124,6 +124,3 @@ Falls man im Endanflug zu hoch ist und den Auftrieb verringern will, kann man be
 **Faustformeln:**
 - bei 10 km/h Wind Beschleuniger etwa 1/3 treten, bei 20 km/h 2/3.
 - bei 3 m/s Abwind etwa 1/3 treten, bei 6 m/s etwa 2/3.
-
-
-© CC-BY 4.0 2026 Pascal Albrecht

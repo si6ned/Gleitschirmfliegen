@@ -31,7 +31,7 @@
 
 ### Leinenverhänger
 - erstmal gerade ausfliegen
-- je mehr Widerstand, umso mehr tendiert der Schirm zum Wegkippen und [Trudeln](Gefahrensituationen#Trudeln)
+- je mehr Widerstand, umso mehr tendiert der Schirm zum Wegkippen und [Trudeln](#Trudeln.md/Autorotation)
 - vorsichting steuern, da der Anstellwinkel aufgrund von viel Widerstand hoch ist -> Stallgefahr
 - erst bei stabilen Vorwärtsflug durch Pumpstoß 100% + warten lösen
 - Wenn das nicht hilft an der betreffenden Leine (idr. Stabilo) ziehen
@@ -67,7 +67,7 @@
 	- Schirm öffnet selbst wieder
 	- erkennbar durch akkustischer Schlag
 	- Schirm fliegt 0.5 s noch gerade aus, nach 0.5 s eine Kurve, nach weiteren 0.5 s beginnt er abzutauchen
-	- falls nicht abgefangen wird, kann der Schirm in [Autrotation](Gefahrensituationen#Trudeln/Autorotation) fallen. Kann simuliert werden durch [Hermann-Manöver](Freizeit/Gleitschirmfliegen/Manoever.md#Autorotation/Hermann)
+	- falls nicht abgefangen wird, kann der Schirm in [Autrotation](Gefahrensituationen.md#Trudeln/Autorotation) fallen. Kann simuliert werden durch [Hermann-Manöver](Manoever.md#Autorotation/Hermann)
 - Maßnahmen
 	- Schirm sollte selbst wieder ausklappen
 	- Fokus erstmal darauf Fahrtrichtung beizubehalten: [Fly your aircraft](Allgemeines#^118e8d)

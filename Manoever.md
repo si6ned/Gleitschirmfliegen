@@ -23,7 +23,7 @@
 
 ## Sat
 - äußerer Arm am Tragegurt abstützen, Gewicht sollte innen oder neutral bleiben
-- in dem Moment wo die [Steilspirale](Abstiegshilfen#Steilspirale) sich auf die Nase legt 1-2s maximal nachziehen auf der Innenbremse
+- in dem Moment wo die [Steilspirale](Abstiegshilfen.md#Steilspirale) sich auf die Nase legt 1-2s maximal nachziehen auf der Innenbremse
 - Ausleiten: Außenbremse für 1s voll drauf, eventuell innen kurz lösen -> da wenig Energie im Sat kann schnell über 1 Kreis ausgeleitet werden, dabei mit Gewicht und Bremse auf der Innenseite draufbleiben bis pendelfrei ausgeleitet ist
 
 ## Stallpunkt ertasten/Trudeln im Ansatz

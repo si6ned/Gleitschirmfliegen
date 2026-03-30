@@ -30,16 +30,16 @@
 - Vorgehen
 	- Fuß in Beschleunigerschlaufe, aber nicht Drücken
 	- Bremsen unverkürzt (unten halten)
-	- Kammgriff über B-Leine und mäßig schnell (1s) nach unten ziehen (kontrollieren ob es wirklich die B-Leinen sind, C würde zum [Full Stall](Gefahrensituationen#vollständigen Strömungsabriss (**Full Stall**)) führen). Je schneller man zieht, umso mehr fällt er nach hinten zurück
+	- Kammgriff über B-Leine und mäßig schnell (1s) nach unten ziehen (kontrollieren ob es wirklich die B-Leinen sind, C würde zum [Full Stall)](Gefahrensituationen.md#vollständigen%20Strömungsabriss%20(**Full%20Stall**)) führen). Je schneller man zieht, umso mehr fällt er nach hinten zurück
 	- fast ganz soweit ziehen, dass A-Leinen nicht mit runtergezogen werden (B-Leinen sind mit A-Leinen zusammengenäht), ruhigste Steuerleinenstellung ist schirmabhängig
 - Eigenschaften
 	- Knick in der Mitte des Schirms
-	- kontrollierter Stall (ähnlich zum [Sackflug](Gefahrensituationen#Sackflug))
+	- kontrollierter Stall (ähnlich zum [Sackflug](Gefahrensituationen.md#Sackflug))
 	- Schirm fällt dabei etwas zurück (Pendel), dabei Position halten
 	- Sinkgeschwindigkeit von 6-8 m/s
 	- bei schmalen Schirmen kann sich der Schirm deformieren (Frontrosette) oder Schlagen - im Ansatz Ausleiten und neu Einleiten
 - Ausleiten
-	- wie beim [Sackflug](Gefahrensituationen#Sackflug)
+	- wie beim [Sackflug](Gefahrensituationen.md#Sackflug)
 	- Bremsen und B-Leinen **schnell hochführen**, dabei unbedingt auch die Bremse lösen, also nicht schnappen lassen
 	- Schirm soll vorschießen um Fahrt aufzunehmen -> **nicht anbremsen! Erst 3s warten**. Er kann vor einem sich nicht abreißen, da der Schirm erstmal nach unten ausflared, erst wenn man drunter pendelt HST man wieder Horizontalflug -> Anstellwinkel relativ zur Luft immer im grünen Bereich
 	- falls der Schirm im Sackflug bleibt (auf Fahrtgeräusche achten) -> Beschleunigen
